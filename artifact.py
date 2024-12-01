@@ -1,5 +1,3 @@
-# artifact.py
-
 from PIL import Image, ImageDraw, ImageFont
 
 class InfoBoxGenerator:

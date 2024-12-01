@@ -1,1 +1,1 @@
-#Code to detect the actual marker ID from the image that should be the input to artifact.py
+#Code to detect the actual marker ID from the camera/image/video
