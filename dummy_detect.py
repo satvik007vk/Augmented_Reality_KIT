@@ -3,8 +3,7 @@ import os
 class ExperimentDetector:
     def __init__(self, image_folder="./data/sample_images"):
         """
-        Initialize the ExperimentDetector with the folder containing images.
-        :param image_folder: Path to the folder containing the images.
+        Initialize with the path to folder containing images.
         """
         self.image_folder = image_folder
         self.marker_id = None
@@ -13,7 +12,7 @@ class ExperimentDetector:
     def _generate_image_mapping(self):
         """
         Generate a mapping of image names to IDs.
-        :return: Dictionary with keys as numbers and values as IDs (e.g., "ID1").
+        :return: Dictionary with keys as numbers and values as IDs (e.g., {"1":"ID1").
         """
         mapping = {}
         images = [f for f in os.listdir(self.image_folder) if f.endswith(('.jpg', '.jpeg', '.png'))]

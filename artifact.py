@@ -2,12 +2,12 @@ from PIL import Image, ImageDraw, ImageFont
 
 class InfoBoxGenerator:
     """
-    A class to generate an information box as an image based on an Image ID.
+    A class to generate an information box based on a marker ID.
     """
 
     def __init__(self):
         """
-        Initialize the generator with predefined information for each Image ID.
+        Initialize with predefined information for each market ID.
         """
         self.info_texts = {
             "ID1": "Portrait 1\nBirth Year: \nAbout: ",
@@ -18,7 +18,7 @@ class InfoBoxGenerator:
 
     def generate_info_image(self, marker_id):
         """
-        Create and display an information box as an image based on the Image ID.
+        Create and display an information box for the marker ID.
         :param marker_id: The ID of the image (e.g., "ID1", "ID2").
         """
         # Get the info text for the given ID
