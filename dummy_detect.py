@@ -1,3 +1,5 @@
+""""This code generates a dummy marker ID after traversing through a set of images. Currently it only uses Image
+names"""
 import os
 
 class ExperimentDetector:
