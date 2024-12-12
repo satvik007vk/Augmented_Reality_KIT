@@ -1,3 +1,5 @@
+"""This code creates a temporary Artifact based on the marker id. Currently, it only pops up an image that contains
+image randomly generated from a marker ID"""
 from PIL import Image, ImageDraw, ImageFont
 
 class InfoBoxGenerator:
@@ -10,10 +12,10 @@ class InfoBoxGenerator:
         Initialize with predefined information for each market ID.
         """
         self.info_texts = {
-            "ID1": "Portrait 1\nBirth Year: \nAbout: ",
-            "ID2": "Portrait 2\nBirth Year: \nAbout: ",
-            "ID3": "Portrait 3\nBirth Year: \nAbout: ",
-            "ID4": "Portrait 4\nBirth Year: \nAbout: "
+            "ID1": "Portrait 1\nBirth Year: xxxx \nAbout: info about the person comes here... ",
+            "ID2": "Portrait 2\nBirth Year: xxxx \nAbout: info about the person comes here...",
+            "ID3": "Portrait 3\nBirth Year: xxxx \nAbout: info about the person comes here... ",
+            "ID4": "Portrait 4\nBirth Year: xxxx \nAbout: info about the person comes here... "
         }
 
     def generate_info_image(self, marker_id):
