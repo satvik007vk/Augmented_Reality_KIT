@@ -9,7 +9,8 @@ Have your thought about who are the people who have their portraits in Jordan Ha
 
 # Created by
 
-- Satvik Parashar 
-- Oliver
-- Berke Şentürk
+
 - Marcella Deny
+- Oliver Dittmann
+- Satvik Parashar 
+- Berke Şentürk
