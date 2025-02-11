@@ -1,0 +1,86 @@
+[
+    {
+      "id": 0,
+      "name": "Johann Gottfried Tulla",
+      "text": "Johann Gottfried Tulla (1770–1828) was a German engineer renowned for straightening the Upper Rhine River, significantly improving navigation and reducing flooding. His work transformed the river's course and had lasting impacts on regional engineering.",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsrl8Hbt9dcQ8WjYtJqAtTzOAxzrcWklh4_554mgDvxfX5I-TSmvofKZbeScv2WxqRkje03YiE9QS3_4yfaKuqHQ"
+    },
+    {
+      "id": 1,
+      "name": "Wilhelm Jordan",
+      "text": "Wilhelm Jordan (1842–1899) was a German geodesist and mathematician known for his contributions to geodetic science, including the adjustment of triangulation networks and the development of the Gauss–Jordan elimination method.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jordan-wilhelm-geodaet-in-trommsdorff-paul-der-lehrkoerper-der-TH-hannover-1831-1931-hannover-1931-s067.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Johannes van Mierlo",
+      "text": "Johannes van Mierlo (dates unknown) was a geodesist associated with the Geodetic Institute at the Karlsruhe Institute of Technology, contributing to advancements in geodetic research and education.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdH7qqk9oCVcnFA4Ym8dvh_gI-LmyNaeKKNQ&s"
+    },
+    {
+      "id": 3,
+      "name": "Günter Schmitt",
+      "text": "Günter Schmitt is a German engineer and businessman, serving as the managing partner of Schmitt Gruppe, a company specializing in logistics and transportation services.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMVTHwrVlT_tRlIp1KbCbjQjQL6JMZMjR6YQ&s"
+    },
+    {
+      "id": 4,
+      "name": "Matthias Haid",
+      "text": "Matthias Haid (dates unknown) was a German geodesist recognized for his contributions to the field of geodesy in the 19th century.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Matthias_Haid.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bernhard Heck",
+      "text": "Bernhard Heck is a German geodesist and professor known for his work in geodetic science, particularly in the areas of satellite geodesy and geodetic networks.",
+      "image": "https://www.gik.kit.edu/img/heck.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Heinrich Lichte",
+      "text": "Heinrich Lichte (dates unknown) was a German geodesist who made significant contributions to the field of geodesy.",
+      "image": ""
+    },
+    {
+      "id": 7,
+      "name": "Heinz Draheim",
+      "text": "Heinz Draheim (dates unknown) was a German geodesist known for his work in geodetic science.",
+      "image": "https://iiif.deutsche-digitale-bibliothek.de/image/2/3da2509c-5f43-4e07-8743-51140d4007be/full/!306,450/0/default.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Eugen Kuntz",
+      "text": "Eugen Kuntz (dates unknown) was a German cartographer and author of 'Kartennetzentwurfslehre: Grundlagen und Anwendungen,' contributing to the field of cartography.",
+      "image": ""
+    },
+    {
+      "id": 9,
+      "name": "Hermann Maelzer",
+      "text": "Hermann Maelzer (dates unknown) was a German geodesist recognized for his contributions to geodetic science.",
+      "image": "https://www.iag-aig.org/img/5ced52efdce8d.png"
+    },
+    {
+      "id": 10,
+      "name": "Hans-Georg Wenzel",
+      "text": "Hans-Georg Wenzel (dates unknown) was a German geodesist known for his work in the field of geodesy.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hans-Georg_Wenzel.jpg/220px-Hans-Georg_Wenzel.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Martin Näbauer",
+      "text": "Martin Näbauer (dates unknown) was a German geodesist recognized for his contributions to geodetic science.",
+      "image": "https://www.asg.ed.tum.de/fileadmin/_processed_/f/f/csm_naebauer_0918606a98.webp"
+    },
+    {
+      "id": 12,
+      "name": "Adolf Schlötzer",
+      "text": "Adolf Schlötzer (dates unknown) was a German geodesist who served at the Geodetic Institute of the Karlsruhe Institute of Technology from 1926 to 1952.",
+      "image": ""
+    },
+    {
+      "id": 13,
+      "name": "Heinrich Merkel",
+      "text": "Heinrich Merkel (dates unknown) was a German geodesist affiliated with the Geodetic Institute at the Karlsruhe Institute of Technology from 1938 to 1960.",
+      "image": "local:heinrich_merkel.png"
+    }
+] 

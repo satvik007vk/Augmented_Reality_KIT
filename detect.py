@@ -1,1 +1,0 @@
-#Code to detect the actual marker ID from the camera/image/video
